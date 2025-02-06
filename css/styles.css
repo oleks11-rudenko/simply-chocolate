@@ -1,4 +1,5 @@
 /* #region common */
+
 body {
   display: flex;
   flex-direction: column;
@@ -108,5 +109,243 @@ address {
 .hide {
   display: none;
 }
+
+/* #endregion */
+
+/* #region Mobile menu */
+
+.menu-backdrop {}
+
+.menu {}
+
+.close-button {}
+
+.close-icon {}
+
+.menu-nav-list {}
+
+.menu-nav-item {}
+
+.socials-list {}
+
+.socials-item {}
+
+.socials-icon {}
+
+/* #endregion */
+
+/* #region Header */
+
+.header {}
+
+.logo-link {}
+
+.logo-italic-side {}
+
+.logo-icon {}
+
+.menu-link {}
+
+.menu-icon {}
+
+.menu-nav {}
+
+/* #endregion */
+
+/* #region Hero */
+
+.hero {}
+
+.hero-title {}
+
+.buy-button {}
+
+.made-button {}
+
+.scroll-down-link {}
+
+.scroll-down-icon {}
+
+/* #endregion */
+
+/* #region Benefits */
+
+.benefits {}
+
+.benefits-list {}
+
+.benefits-item {}
+
+.benefits-icon {}
+
+.benefits-title {}
+
+.benefits-descr {}
+
+/* #endregion */
+
+/* #region Ingredients */
+
+.ingredients {}
+
+.ingredients-title {}
+
+.page-orange-text {}
+
+.ingredients-list {}
+
+.ingredients-item {}
+
+.ingredients-button {}
+
+.ingredients-icon {}
+
+.ingredients-img {}
+
+.ingredients-desc {}
+
+/* #endregion */
+
+/* #region Howitismade */
+
+.howitismade {}
+
+.howitismade-title {}
+
+.howitismade-img {}
+
+.howitismade-text {}
+
+.howitismade-subtitle {}
+
+.howitismade-list {}
+
+.howitismade-item {}
+
+/* #endregion */
+
+/* #region Products */
+
+.products {}
+
+.products-title {}
+
+.products-list {}
+
+.products-item {}
+
+.products-img {}
+
+.products-subtitle {}
+
+.products-desc {}
+
+.products-price {}
+
+/* #endregion */
+
+/* #region Topsellers */
+
+.topsellers {}
+
+.topsellers-title {}
+
+.topsellers-list {}
+
+.topsellers-item {}
+
+.topsellers-img {}
+
+.topsellers-subtitle {}
+
+/* #endregion */
+
+/* #region Reviews */
+
+.reviews {}
+
+.reviews-title {}
+
+.reviews-list {}
+
+.reviews-item {}
+
+.reviews-img {}
+
+.reviews-subtitle {}
+
+.reviews-desc {}
+
+.reviews-button {}
+
+/* #endregion */
+
+/* #region Footer */
+
+.footer {}
+
+.footer-upperside {}
+
+.footer-title {}
+
+.address-desc {}
+
+.address-list {}
+
+.address-item {}
+
+.address-link {}
+
+.socials {}
+
+.socials-title {}
+
+.footer-downside {}
+
+.subscription-form {}
+
+.subscription-input {}
+
+.subscription-button {}
+
+/* #endregion */
+
+/* #region Modal */
+
+.modal-backdrop {}
+
+.modal {}
+
+.modal-form {}
+
+.modal-form-wrapper {}
+
+.modal-label {}
+
+.modal-input {}
+
+.modal-icon {}
+
+.modal-icon-error {}
+
+.textarea-label {}
+
+.modal-textarea {}
+
+.checkbox-label {}
+
+.visually-hidden {}
+
+.checkbox-text {}
+
+.modal-checkbox {}
+
+.modal-checkbox-icon {}
+
+.checkbox-text-wrapper {}
+
+.modal-link {}
+
+.submit-button {}
 
 /* #endregion */
