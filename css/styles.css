@@ -68,6 +68,10 @@ input {
   font-family: inherit;
 }
 
+address {
+  font-style: normal;
+}
+
 .container {
   max-width: 375px;
   min-width: 320px;
